@@ -1,130 +1,122 @@
 # Quantum Able Bootstrap 4 Free Admin Template
 
-[Quantum Able  Bootstrap 4 –  Free/Lite Admin Template](https://codedthemes.com/item/quantum-able-lite/) is a complete solution for your dashboard creation. It comes with a default layout version, with limited options,  Google optimized, font integration, high speed, mature and sophisticated, extremely well-organized code makes Quantum Able Bootstrap 4 Lite a completely flexible solution for any type of back-end application project.
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Price](https://img.shields.io/badge/price-FREE-0098f7.svg)](https://github.com/codedthemes/quantum-able-free-bootstrap-admin-template/blob/main/LICENSE)
+[![Download ZIP](https://img.shields.io/badge/Download-ZIP-blue?style=flat-square&logo=github)](https://codedthemes.com/item/quantum-able-lite/)
+[![Join Discord](https://img.shields.io/badge/Join-Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/invite/p2E2WhCb6s)
 
-![Quantum Able Bootstrap 4 Free Admin Template Preview Image](https://codedthemes.com/wp-content/uploads/edd/2019/05/quntam-1.jpg)
+Quantum Able Bootstrap 4 – Free/Lite Admin Template is a complete solution for your dashboard creation. It comes with a default layout version, with limited options, Google optimized, font integration, high speed, mature and sophisticated, extremely well-organized code makes Quantum Able Bootstrap 4 Lite a completely flexible solution for any type of back-end application project.
 
-Comes with error/bug-free, well structured, well-commented code and regularly with all latest updated code. This saves you a large amount of developing backend application time and it is fully customizable.
+✨ Support us! If you like this theme, click the ⭐ (Top right) and let it shine
 
-It comes with Basic but useful UI components, advanced components, auth pages, font icons, different form components, data tables, charts, and maps.
+## Table of contents
 
-## Free Version Preview & Download
+- [Getting Started](#getting-started)
+- [Download](#download)
+- [Why Quantum Able?](#why-quantum-able)
+- [Browser support](#browser-support)
+- [Technology Stack](#technology-stack)
+- 💰[Save more with Big Bundle](#save-more-with-big-bundle)💰
+- [More Bootstrap Dashboard Templates](#more-bootstrap-dashboard-templates)
+- [Issues?](#issues)
+- [License](#license)
+- [Contributor](#contributor)
+- [Useful Resources](#useful-resources)
+- [Community](#community)
+- [Follow us](#follow-us)
 
-Check out live preview of Datta Able lite version & download it.
+## Getting Started
 
-#### Preview
+Clone from Github
 
- - [Demo](http://lite.codedthemes.com/datta-able/bootstrap)
+```
+git clone https://github.com/codedthemes/quantum-able-free-bootstrap-admin-template.git
+```
 
-#### Download
+## Download
 
- - [Download from Github](https://github.com/codedthemes/quantum-able-free-bootstrap-admin-template)
- - [Download from CodedThemes]( https://codedthemes.com/item/datta-able-bootstrap-lite/) & receive important notification instantly in your maiL.
+- DashboardKit Free
+  - [Live Preview](https://lite.codedthemes.com/quantam/)
+  - [Download](https://codedthemes.com/item/quantum-able-lite/)
 
-## Explore Demos
+## Why Quantum Able?
 
-Includes Vertical, Horizontal, Box, light, dark and many more layouts with fully RTL support.
+DashboardKit offers everything needed to build an advanced dashboard application. In the initial release, we included following high-end features,
 
-# Reason to choose Quantum Able
+- Support Bootstrap 4.
+- Professional user interface.
+- Bootstrap components.
+- Fully responsive, all modern browser supported.
+- Easy to use code structure
+- Flexible & high-Performance code
 
-Free and Premium, Bootstrap, Angular, React admin templates + UI kits
+## Browser support
 
-## 16+ Pages
+<img src="https://org-public-assets.s3.us-west-2.amazonaws.com/logos/chrome.png" width="45" height="45" > <img src="https://org-public-assets.s3.us-west-2.amazonaws.com/logos/edge.png" width="45" height="45" > <img src="https://org-public-assets.s3.us-west-2.amazonaws.com/logos/safari.png" width="45" height="45" > <img src="https://org-public-assets.s3.us-west-2.amazonaws.com/logos/firefox.png" width="45" height="45" > <img src="https://org-public-assets.s3.us-west-2.amazonaws.com/logos/opera.png" width="45" height="45" >
 
-* We've created 16+ Pages, which cover almost everything
+## Technology Stack
 
-## Faster Loading Speed
+- Bootstrap
+- HTML
+- CSS
+- JQuery
 
-* Page render fast with the best score in Google Page Speed Tool
+## Save more with Big Bundle
 
-## Default New Layouts
+[![bundle-image](https://org-public-assets.s3.us-west-2.amazonaws.com/Banners/Bundle+banner.png)](https://links.codedthemes.com/jhFBJ)
 
-* We've designed default new layouts which you never saw before.
+## More Bootstrap Dashboard Templates
 
-## New - Live Customizer
+| Dashboard                                                                                                                                                        | FREE                                                                           | PRO                                                                                 |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------- |
+| <img src="https://org-public-assets.s3.us-west-2.amazonaws.com/logos/Berry%20with%20name.png"  height="30" style="display:inline-block; vertical-align:middle;"> | [**Free**](https://codedthemes.com/item/berry-bootstrap-free-admin-template/)  | [**Pro**](https://codedthemes.com/item/berry-bootstrap-5-admin-template/)</span>    |
+| <img src="https://org-public-assets.s3.us-west-2.amazonaws.com/logos/Mantis%20with%20name.png" height="30" style="display:inline-block; vertical-align:middle;"> | [**Free**](https://codedthemes.com/item/mantis-bootstrap-free-admin-template/) | [**Pro**](https://codedthemes.com/item/mantis-bootstrap-admin-dashboard/)</span>    |
+| <img src="https://org-public-assets.s3.us-west-2.amazonaws.com/logos/Datta%20with%20name.png" height="30" style="display:inline-block; vertical-align:middle;">  | [**Free**](https://codedthemes.com/item/datta-able-bootstrap-lite/)            | [**Pro**](https://codedthemes.com/item/datta-able-bootstrap-admin-template/)</span> |
 
-* Real-time page customizer with tons of options to choose
+## Issues
 
-## Retina Responsive Ready
+If you found a bug in any version, please generate a [GitHub issue](https://github.com/codedthemes/quantum-able-free-bootstrap-admin-template/issues). We are trying our best to resolve the issue.
 
-* Every component are highly responsive and retina ready too
+## License
 
-## Support/Helper Guide
+- Licensed under [MIT](https://github.com/codedthemes/quantum-able-free-bootstrap-admin-template/blob/main/LICENSE)
+- Copyright © [CodedThemes](https://codedthemes.com/)
 
-* Detailed documentation is written out for each component
+## Contributor
 
-## Charts
+**CodedThemes Team**
 
-* Highlight your statistics data in visual foam using 50+ pre-designed charts
+- https://x.com/codedthemes
+- https://github.com/codedthemes
 
-## 15+ Widgets
+**Rakesh Nakrani**
 
-* Ready to use Dashboard Widgets as per your demand
+- https://x.com/rakesh_nakrani
 
-## Plugins
+**Brijesh Dobariya**
 
-* We've integrated every possible 3'rd party plugins which suits your backend need
+- https://x.com/dobaria_brijesh
 
-## Pre built free version components
+## Useful Resources
 
-* Free and Premium, Bootstrap, Angular, React admin templates + UI kits
+- [More Admin Templates From CodedThemes](https://codedthemes.com/item/category/admin-templates/)
+- [Freebies From CodedThemes](https://codedthemes.com/item/category/free-templates/)
+- [Big Bundles](https://codedthemes.com/item/big-bundle/)
+- [Figma UI Kits](https://codedthemes.com/item/category/templates/figma/)
+- [Affiliate Program](https://codedthemes.com/affiliate/)
+- [Blogs](https://blog.codedthemes.com/)
 
-## Dashboard
+## Community
 
-## UI Elements
+- 👥Follow [@codedthemes](https://x.com/codedthemes)
+- 🔗Join [Discord](https://discord.com/invite/p2E2WhCb6s)
+- 🔔Subscribe to [Codedtheme Blogs](https://blog.codedthemes.com/)
 
-* Accordion
-* button
-* Label badge
-* Grid System
-* Box Shadow
-* Color
-* Litebox
-* Notification
-* Panel-wells
-* Tabs
-* Tooltips
-* Typography
+## Follow Us
 
-## Forms Components
-
-* Bootstrap Elements
-* Advance Elements
-
-## Table
-
-* Bootstrap Tables
-
-## Chart
-
-* Float Chart
-* Morris Chart
-
-## Landing Page
-
-## Pages
-
-* Login
-* Register
-* Forgot password
-* User Profile
-* Lock Screen
-* Error 404
-* Sample Page
-* Search result
-
-## Menu Level
-
-## Other Dashboard Products
-
- - [Free Bootstrap 4 Admin Template](https://codedthemes.com/item/category/free-templates/free-bootstrap-admin-templates)
- - [Free React Dashboard Template](https://codedthemes.com/item/category/free-templates/free-react-admin-templates)
- - [Free Angular Dashboard Template](https://codedthemes.com/item/category/free-templates/free-angular-admin-templates)
- - [Premium Bootstrap & Angular Admin Template](https://codedthemes.com/item/category/templates/admin-templates/)
- 
-## Social Profiles
- - Dribbble [https://dribbble.com/codedthemes](https://dribbble.com/codedthemes)
- - Behance [https://www.behance.net/codedthemes](https://www.behance.net/codedthemes)
- - Facebook [https://www.facebook.com/codedthemes](https://www.facebook.com/codedthemes)
- - Twitter [https://twitter.com/codedthemes](https://twitter.com/codedthemes)
- - Instagram [https://www.instagram.com/codedthemes/](https://www.instagram.com/codedthemes/)
+- [Twitter](https://twitter.com/codedthemes) 🐦
+- [Dribbble](https://dribbble.com/codedthemes) 🏀
+- [Github](https://github.com/codedthemes) 🐙
+- [LinkedIn](https://www.linkedin.com/company/codedthemes/) 💼
+- [Instagram](https://www.instagram.com/codedthemes/) 📷
+- [Facebook](https://www.facebook.com/codedthemes) 🟦
